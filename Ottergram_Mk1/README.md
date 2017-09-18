@@ -1,4 +1,1 @@
-# front-end
-# front-end
-# front-end
-# front-end
+# Moved first iteration of Ottergram into its own folder
