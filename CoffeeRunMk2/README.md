@@ -1,0 +1,6 @@
+# CoffeeRunMk2 CPSC 473
+# Updated coffeenrun to work with deployd back-end
+
+IMPORTANT: My pending orders area does not show orders that are pending (even if they are in deployd).
+  I have tried to figure out why, going so far as to redo chapters 10 and 11 with no luck. Despite that,
+  I did my best to implement the functionality we were supposed to for this project.
